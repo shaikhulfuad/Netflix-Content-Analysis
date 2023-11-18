@@ -2,6 +2,22 @@
 
 A dataset till 2021 was collected for the analysis of the content. A bunch of visualization techniques have been employed to determine the insights of the content of Netflix equipped with Power BI.
 
+
+**Data Cleaning**
+
+
+|The dataset did not hold any headers for columns so the heading was appointed and the first columns have been promoted to turn it into a genuine header.
+
+|Filtered redundant values or blank data
+
+|The date column has been split by delimiter to Year
+
+|Removed redundant columns
+
+|Data types have been corrected to the appropriate format and renamed accordingly
+
+
+
 **Data Visualization**
 
 
